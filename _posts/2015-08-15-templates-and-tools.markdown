@@ -1,7 +1,7 @@
 ---
-title:  "Code Templates"
+title:  "Templatest and tools"
 date:   2015-08-15 15:10:00
-description: "Snippets, VIM, IDEs"
+description: "C++11, VIM, syntastic, singlecompile, cgdb"
 ---
 
 We as programmers tend to focus a lot on our development environment, and I have
@@ -97,6 +97,10 @@ int main() {
 ```
 [_two-sum.cpp_](https://github.com/palcu/Algorithm-Contest-Sources/blob/master/LeetCode/two-sum.cpp)
 
+For compiling and running this faster, I use the [`SingleCompile`][5] plugin.
+My [config][6] is that whenever I press `F9`, the file gets compiled with 
+C++11 and I get to see the output of running it.
+
 If my solution gets to complicated, my last tool I use is [`cgdb`][4]. It's an
 improved version of `gdb` that shows me a split pane between my code and my
 `gdb` output.
@@ -108,3 +112,6 @@ improved version of `gdb` that shows me a split pane between my code and my
 [3]:
 https://github.com/palcu/dotfiles/blob/7d5796369e78f3914ad0fcd2e50c201863f8bd38/home/.vimrc#L85-L88
 [4]: https://cgdb.github.io
+[5]: https://github.com/xuhdev/SingleCompile
+[6]:
+https://github.com/palcu/dotfiles/blob/7d5796369e78f3914ad0fcd2e50c201863f8bd38/home/.vimrc#L97-L99
