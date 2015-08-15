@@ -434,6 +434,10 @@ Post List
 	margin-top: 100px;
 }
 
+#footer img {
+	width: auto;
+}
+
 /* Post Page */
 #header {
 	border-bottom: 1px solid #eee;
