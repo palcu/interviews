@@ -1,6 +1,6 @@
 name: Interview Preparation palcu.ro
-description: Cracking the coding interviews at big companies.
-meta_description: "Alex Palcuie's blog for cracking the coding interviews"
+description: Cracking the coding interview
+meta_description: "Alex Palcuie's blog for cracking the coding interview"
 
 aboutPage: true
 
@@ -8,6 +8,7 @@ markdown: redcarpet
 highlighter: pygments
 
 paginate: 20
+baseurl: /
 
 # Details for the RSS feed generator
 url:            'http://interviews.palcu.ro'
