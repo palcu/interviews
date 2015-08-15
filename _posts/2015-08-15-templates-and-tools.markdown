@@ -1,5 +1,5 @@
 ---
-title:  "Templatest and tools"
+title:  "Templates and tools"
 date:   2015-08-15 15:10:00
 description: "C++11, VIM, syntastic, singlecompile, cgdb"
 ---
