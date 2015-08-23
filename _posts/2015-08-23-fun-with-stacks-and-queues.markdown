@@ -1,6 +1,6 @@
 ---
 title:  "Fun with stacks and queues"
-date:   2015-08-15 15:50:00
+date:   2015-08-23 19:00:00
 description: "Simulating one with another"
 ---
 
