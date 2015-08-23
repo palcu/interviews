@@ -290,7 +290,7 @@ hr {
 	background: #eee;
 }
 
-span.code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; }
+p code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; padding: 0 2px; }
 
 pre	{
 	font-family:Menlo, Monaco, Courier;
