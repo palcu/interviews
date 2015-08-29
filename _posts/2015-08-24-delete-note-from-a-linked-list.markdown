@@ -1,5 +1,5 @@
 ---
-title:  "Fun with stacks and queues"
+title:  "Delete node from a linked list"
 date:   2015-08-24 08:00:00
 description: "Simple problem?... always has a trick"
 ---
