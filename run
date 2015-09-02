@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# http://stackoverflow.com/questions/25176674/run-process-when-string-in-stdout-is-matched/25177206#25177206
+
+(jekyll serve) | while read line; do 
+    [[ $line =~ "Server running" ]] && open http://interviews.local.palcu.ro:4000
+    echo $line
+done
