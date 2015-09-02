@@ -9,6 +9,6 @@ I have stumbled upon a nice repository that has a nice curated list of resources
 for preparing for an interview. I've bookmarked lots of articles and guides from
 there.
 
-https://github.com/andreis/interview
+[github.com/andreis/interview](https://github.com/andreis/interview)
 
 ![andreis](/assets/images/andreis.png)
