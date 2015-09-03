@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Pointers"
+description: "Don't have to be always complicated"
+date: "Thu Sep 03 11:41:04 +0300 2015"
+---
+
+I've always messed up the `*` and `&` symbols in C++. I never fully understood
+what a pointer is and how it works.
+
+Till I found this article on
+[cplusplus.com](http://www.cplusplus.com/doc/tutorial/pointers/). Another think
+that is in my reading list is the book [Understanding and Using C
+Pointers](http://shop.oreilly.com/product/0636920028000.do)
