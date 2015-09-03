@@ -11,4 +11,4 @@ what a pointer is and how it works.
 Till I found this article on
 [cplusplus.com](http://www.cplusplus.com/doc/tutorial/pointers/). Another think
 that is in my reading list is the book [Understanding and Using C
-Pointers](http://shop.oreilly.com/product/0636920028000.do)
+Pointers](http://shop.oreilly.com/product/0636920028000.do).
