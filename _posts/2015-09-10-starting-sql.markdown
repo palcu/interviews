@@ -34,6 +34,10 @@ Finally, if you start preparing for interviews, [LeetCode][6] and
 [HackerRank][7] have a small set of problems, but with some of them being really
 challenging.
 
+Update: I've remembered that TalentBuddy has a cool [crash course][8] on MongoDB
+and Redis, the first one being a NoSQL database and the second one being a
+key-value database.
+
 [0]: https://www.coursera.org/course/db
 [1]: https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about
 [2]: https://www.khanacademy.org/computing/computer-programming/sql
@@ -42,3 +46,4 @@ challenging.
 [5]: http://sqlbolt.com/
 [6]: https://leetcode.com/problemset/database/
 [7]: https://www.hackerrank.com/domains/databases/relational-algebra
+[8]: https://www.talentbuddy.co/track/52a9121cc8a6c2dc91481f96
