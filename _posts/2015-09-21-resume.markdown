@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resume"
-description: "It takes way more time than you plan."
+description: "It takes way more time than you plan"
 date: "Mon Sep 21 14:54:16 +0300 2015"
 ---
 
