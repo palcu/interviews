@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Resume"
+description: "It takes way more time than you plan."
+date: "Mon Sep 21 14:54:16 +0300 2015"
+---
+
+To apply at a big company, you first need a resume. Which is a pretty different
+monster than a Curriculum Vitae. I first read the chapter in Cracking The Coding
+Interview to get some tips. I downloaded their [format][6], took some information
+from my [LinkedIn][0] profile and added some [Github][1] projects. It looked
+like [this](/assets/files/resume.pdf).
+
+I gave it to one of my friends and the feedback was all negative. His most
+important point was _"dude, I don't know what are your strengths"_. After some
+more fiddling with every line of it, I arrived at the second [version][2].
+
+Finally, another friend comes and says that I must get all the information in
+just a single page. So, I trim most of the unnecessary stuff and arrive at my
+[last version][3].
+
+As layout and typography tips, I've used only two columns and everything is
+Helvetica. I've also cut from the margins so that everything can fit in a single
+page. Bolding keywords has also recommended because HR people scan only for
+them.
+
+For content, I've moved the awards section to be in the second place because
+everybody told me that it's the best, even though they are not really top notch.
+I've also dropped the other 2 projects I did in my high-school years, and only
+focused on a single one I've finished this summer. [Theodor][4] also recommended
+me this [good][5] article.
+
+Finally, you will get friends that tell you to remove the education section
+altogether and friends who say you should add courses you've done in university.
+Just go with your guts when conflicting opinions appear.
+
+[0]: https://www.linkedin.com/profile/view?id=AAIAAAJ7SVQB1QM5qllm0Y1hU9OkZ9SVRBfF6Ew&trk=nav_responsive_tab_profile_pic
+[1]: https://github.com/palcu?tab=repositories
+[2]: /assets/files/resume2.pdf
+[3]: /assets/files/resume3.pdf
+[4]: http://vararu.org/
+[5]: http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/
+[6]: http://www.careercup.com/resume
