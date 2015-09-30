@@ -1,0 +1,18 @@
+---
+layout: post
+title: "pramp.com"
+date: "Tue Sep 29 19:16:30 +0300 2015"
+description: "Mock interviews with real people"
+---
+
+Recently I've discovered [pramp.com][0]. It's a website where you select three time intervals, some topics and your chosen programming language and in the end you are paired with another peer to take a mock interview. You first get by email a problem that you use to interview your partner, together with tips and some solutions.
+
+You then show up on the website at the specified time. An editor pops with a problem statement and and you begin a video call with another programmer. You have 30 minutes to solve the problem, while he acts as an interviewer. After you give a solution and write the code, it's your turn to act as an interviewer. Everything is free of charge.
+
+I can say that taking an interview on pramp.com was one of the best decisions ever. First, I discovered that it's really shitty to do an interview with my phone headphones. You have to keep the microphone close to the mouth with a hand and write code with the other hand.
+
+Then, there's the language barrier. The guy was Indian and had an accent. There was a little difficulty to talk, but we took examples in the editor and we managed to communicate better.
+
+![pramp](/assets/images/pramp.png)
+
+[0]: https://www.pramp.com/
