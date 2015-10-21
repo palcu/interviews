@@ -1,0 +1,8 @@
+---
+layout: post
+title: "RSS feeds"
+description: "Best in the metro"
+date: "Wed Oct 21 21:49:09 +0300 2015"
+---
+
+While I'm in the metro, I've found that it's more productive to find fast a list of problems to think about. So, I've made a specific [Feedly](http://feedly.com/) account, just to add the RSS feed from [GeeksForGeeks](http://www.geeksforgeeks.org/) and feeds about interviews from companies I will be interviewing from [Glassdoor](http://glassdoor.com/). My commute is know more interesting.
