@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It's happenning"
+title: "It's happening"
 description: "Just some Reddit threads"
 date: "Tue Nov 03 18:44:15 +0200 2015"
 ---
