@@ -1,0 +1,36 @@
+---
+layout: post
+title: "The End"
+description: "Story of how my interviews went"
+date: "Mon Feb 15 22:38:43 +0000 2016"
+---
+
+Today I have accepted the offer from Palantir and I'll be moving to London in July.
+
+Since 15th of August, for exactly 6 months or 184 days, I've prepared for my interviews, applied, taken them, received 2 offers and accepted one of them.
+
+In this interval, I've solved 125 / 333 problems on Leetcode. I'm in the 33rd percentile on HackerRank and solved 34 problems there. I've done 13 phone mock interviews on Pramp. I've skimmed over Cracking The Coding Interview and The Algorithm Design Manual and finished all the 43 InterviewCake questions.
+
+![leetcode graph](/assets/images/leetcode.png)
+
+I've participated in 8 live [Codeforces](http://codeforces.com/profile/palcu) competitions, with my rating going from 1387 to 1509 (and a max of 1579).
+
+![codeforces graph](/assets/images/codeforces.png)
+
+But, the most important part of my preparations, were the live mocks with my friends. We've met at my place over 10 times, simulating real interviews.
+
+I've been through 7 one hour phone interviews and 10 one hour on-site interviews. I had a pleasant experience with recruiters from all the companies I've interviewed.
+
+Successfull outcomes:
+
+* I passed the Bloomberg intern interviews and was put in the "intern queue".
+* I passed the Google intern interviews and was put in the "intern pool".
+* I passed part of the GoCardless intern interview process.
+* I passed the Palantir intern interviews. They decided to give me two more interviews and made me a full-time offer.
+* I passed the Google full-time interviews and received an offer.
+
+I am not going to write what were the reasons that I've chosen Palantir, but trust me that it was pretty difficult and it involved asking over 20 friends about it.
+
+One of the most valuable tools for preparing me was Glassdoor. I also felt Reddit's [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/) subreddit offered me good advice. The most underrated advice that helped me the most was answering the _please walk me through your resume_ question in front of the mirror for over 10 times. After you get the pitch well crafted and exercise it, you feel confident in front of people to do it over and over again.
+
+**Be enthusiastic!**
