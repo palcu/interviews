@@ -4,7 +4,7 @@ meta_description: "Alex Palcuie's blog for cracking the coding interview"
 
 aboutPage: true
 
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
