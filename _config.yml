@@ -37,6 +37,8 @@ defaults:
             layout: post
 
 gems:
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-gist
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-sitemap
