@@ -1,6 +1,7 @@
 name: Interview Preparation palcu.ro
 description: Cracking the coding interview
 meta_description: "Alex Palcuie's blog for cracking the coding interview"
+timezone: Europe/Bucharest
 
 aboutPage: true
 
