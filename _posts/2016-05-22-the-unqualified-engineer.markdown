@@ -1,7 +1,7 @@
 ---
 title: "The Unqualified Engineer"
 layout: post
-description: "Videos about interviews uploaded by a former Facebook engineer"
+description: "Videos about interviews by a former Facebook engineer"
 date: "2016-05-22 21:05:30"
 ---
 
