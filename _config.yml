@@ -40,5 +40,6 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-redirect-from
+  - jekyll-paginate
   - jemoji
   - jekyll-sitemap
